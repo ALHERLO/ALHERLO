@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ALHERLO
-- 👀 I’m interested in coding!!!
-- 🌱 I’m currently learning Python and Web Development
-- 💞️ I’m looking to collaborate on creating new software
+- Hi, I’m Alan
+- I’m interested in coding!!!
+- I’m currently learning Python and Web Development
+- I’m looking to collaborate on creating new software
 
 
 <!---
