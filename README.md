@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alherlo23@gmail.com**
 
-- ⚡ Fun fact **I am Jump Shipping Industries**
+- ⚡ Fun fact **I am Changing Industries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
