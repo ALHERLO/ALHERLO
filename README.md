@@ -5,7 +5,7 @@
 
 - 👉🏽 I’m currently working on **Python Portfolio Projects**
 
-- 📊 I’m currently learning **SQL and Tableau**
+- 📊 I’m currently learning Python, Swift, Cloud
 
 - 👯 I’m looking to collaborate on **Software Development**
 
