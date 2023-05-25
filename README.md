@@ -13,7 +13,7 @@
 
 - 💾 All of my projects are available at [https://alherlo.github.io/](https://alherlo.github.io/)
 
-- 📫 How to reach me **alherlo23@gmail.com**
+- 📫 How to reach me **alanhernandezlopez2022@gmail.com**
 
 - ⚡ Fun fact **I am Changing Industries**
 
